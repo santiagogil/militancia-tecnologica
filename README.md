@@ -16,7 +16,7 @@ Tanto la estructura que propongo hoy en el [wiki](https://github.com/santiagogil
 Mi ilusión es que este espacio, o cualquier otro que surja del intercambio, se constituya en una referencia que nos ayude a encontrarnos, conocernos y cooperar en pos de esto que, por ahora, llamo militancia tecnológica.
 
 En el wiki, tomo las categorías que planteo en [Minuta jueves de tertulia](http://santiagogil.github.io/blog/2013/08/11/minuta-jueves-de-tertulia/) para ir embebiendo los tweets que pude recuperar.
-Me pareció mas interesante esta invitación en formato wiki para entre todos construir la definición del problema, que dejarlo en un storify o algo parecido.
+Me pareció mas interesante esta invitación en formato wiki para colaborativamente construir la definición del problema, que dejarlo en un storify o algo parecido.
 
 De más está aclarar que se aceptan pull requests, issues, sugerencias, puteadas y demás hierbas.
 Gracias a @fanderfalconi y a todos los participantes por un jueves a la noche agitado y profundo.
